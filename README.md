@@ -1,10 +1,10 @@
 # Record-Management-System
 Database Management Project
 
-# Objective of this Assignment:
+# Objective of this Assignment
   To design a miniature Project for a Banking Management System using Java, Oracle and
   JDBC.
-# Requisite:
+# Requisite
   Completion of IDB Laboratory Assignment-4
   Basic Java Programming knowledge
   

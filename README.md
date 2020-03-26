@@ -1,4 +1,4 @@
-# Record-Management-System
+# Banking-Management-System
 Database Management Project
 
 # Objective of this Assignment
